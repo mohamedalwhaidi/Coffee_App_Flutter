@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397253747521",
+    "firebase_url": "https://lion-brew.firebaseio.com",
+    "project_id": "lion-brew",
+    "storage_bucket": "lion-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397253747521:android:9e5d16ceff1ba8368b77c0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397253747521-a51v2rorde9pjihe24st2m3isgmbulgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8QtnLLafzJj1LxAPu8Y7Hcf1yqg3m5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397253747521-a51v2rorde9pjihe24st2m3isgmbulgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
